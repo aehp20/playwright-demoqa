@@ -1,4 +1,4 @@
-# Playwrigth
+# Playwright
 
 Inside that directory, you can run several commands:
 
@@ -28,10 +28,10 @@ We suggest that you begin by typing:
 npx playwright test
 ```
 
-Examples of commands:
+Example of commands:
 
 ```
-npx playwright test --headed  --workers 1
+npx playwright test --headed --workers 1
 npx playwright test --workers 1
 npx playwright test --workers 2
 ```
